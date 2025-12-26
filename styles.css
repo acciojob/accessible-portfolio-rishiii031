@@ -1,2 +1,21 @@
 
 /* Your CSS Code here. */
+
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    line-height: 1.6;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
+img {
+    max-width: 200px;
+    border-radius: 8px;
+    margin-top: 20px;
+}
